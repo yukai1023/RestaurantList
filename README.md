@@ -1,5 +1,5 @@
 # RestaurantList
-
+![image](https://github.com/yukai1023/RestaurantList/blob/main/interface.png)
 # Features - 產品功能
 1.使用者點擊任一餐廳，可查看更多餐廳資訊，如地址、電話與簡介  
 2.使用者可以透過搜尋名稱來找到想要的餐廳  
