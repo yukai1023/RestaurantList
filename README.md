@@ -15,6 +15,6 @@ express-handlebars: 3.0.0
 1.下載此專案  
 2.透過 terminal 進入此專案所使用的根目錄  
 3.安裝 npm 套件指令：npm install  
-4.安裝 npm 套件指令：nodemon app.js  
+4.安裝 npm 套件指令：npm install -g nodemon 
 5.執行指令：npm run start   
 6.瀏覽器開啟網頁: http://localhost:3000  
